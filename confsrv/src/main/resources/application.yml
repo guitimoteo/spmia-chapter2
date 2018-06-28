@@ -7,4 +7,4 @@ spring:
       config:
         server:
           native:
-            searchLocations: file:///Users/johncarnell1/book/native_cloud_apps/ch4-config-managment/confsvr/src/main/resources/config/licensingservice
+            searchLocations: file:////home/guitimoteo/Documents/workspace/sts/spmia-chapter2/confsrv/src/main/resources/config/licensingserver

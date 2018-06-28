@@ -17,6 +17,7 @@
     <version>1.4.4.RELEASE</version>
   </parent>
   <modules>
+    <module>confsrv</module>
     <module>licensing-service</module>
   </modules>
   <build>
